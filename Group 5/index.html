@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
     
-
+<!--
+    The universal format for webpages, as well as the favicon and style sheet 
+-->
 <head>
     <meta charset="UTF-8">
     <meta name="author" content="David Hernandez">
@@ -12,21 +14,32 @@
     
 </head>
 
+<!--
+    headers, images
+-->
 <body>
     <header>
-        <h1 id="#top">Online Intrusion</h1>
-        
+        <section>
+
+        <h1 id="#top" class="h1">Online Intrusion</h1>
+        </section>
     </header>
     <figure>
         <img src="Images/finger.png" alt="finger pointing at you" width="220" height="175"><figcaption>Anyone can be a victim, including<b> YOU!</b></figcaption>
     </figure>
-    <h2>What is Online Intrusions?</h2>
+    <section>
+    <h2 class="h2">What is Online Intrusions?</h2>
         <p>It is an unauthorized access someone gains to your computer, typically for nefarious reasons.</p>
 
         <h2>Subtopics</h2>
-        <aside><details>
+    </section>
 
-        
+    <!--
+        This will create links to the other webpages
+    -->
+<section class="link">
+        <aside>
+            <details>
         <summary><a href="RAT.html">Remote Access Trojan</a></summary>
         <p>
             These are used to gain access to someone’s computer.
@@ -67,24 +80,5 @@
                 </p>
             </details>
             </aside>
-    
-
-
-        <!--<ol><p>
-            
-        </p>
-        <p>
-            Botnet
-        </p>
-        <p>
-            Pharming
-        </p>
-        <p>
-            Port Scan
-        </p>
-        <p>
-            Zero Day Attack
-        </p>
-    </ol> -->
-
+        </section>
 </body>
