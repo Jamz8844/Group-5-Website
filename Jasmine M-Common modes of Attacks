@@ -1,0 +1,25 @@
+<DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Jasmine Monreal">
+    <meta name="description content="Online Intrustions-Group 5">
+    <title>Common Modes of Attack"</title>
+    <link rel="icon" href="Images/
+    <link rel="stylesheet" Href="style.css">
+    
+    </head>
+    <body>
+        <nav>
+            <a href="index.html">Back</a>
+            </nav>
+            [Caption]: https://www.geeksforgeeks.org/difference-between-active-attack-and-passive-attack/?id=discuss.%27
+            <h1> Introduction</h1>
+            <p> There are two different types of Common Modes of attacks there are passive and active attacks.Passive attacks are when a hackers have mulitple copies
+            of content.The person experiencing the attack will never notice these attacks.Passive attacks are when hackers have mulitple copies of the content and are 
+            able toobserve your content without permission.The person experiencing a passive attack is never aware of it.Active Attacks are when the hacker has access 
+            to your content and can modifty it.This can cause damage to your device and the material that the hackerhas gained access to. You will know when you 
+            experience an Active Attack because the victim will be notified of the attack once the damage us done and there's no hope of recovering the files.</p>
+         </body>
